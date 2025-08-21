@@ -30,5 +30,21 @@ The goal is to identify sales trends, top-performing products, and customer pref
 
 ---
 
-## Repository Structure
+
+---
+
+## Dashboard Preview
+
+
+---<img width="1296" height="721" alt="Screenshot 2025-08-21 122805" src="https://github.com/user-attachments/assets/822e5f4b-0059-48b7-822a-13285cc24b63" />
+
+
+## Contact
+**Ayush Kumar**  
+Email: ayushjay25@gmail.com 
+
+---
+
+If you found this project helpful, don’t forget to star the repo!
+
 
